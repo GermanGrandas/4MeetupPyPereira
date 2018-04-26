@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://pypereira.co/"><img src="https://pypereira.co/static/img/python-pereira.svg" style="{width: 50%}"></a><br><br>
+  <a href="https://pypereira.co/"><img src="https://pypereira.co/static/img/python-pereira.svg" style="width: 50%"></a><br><br>
 </div>
 
 # Introducción Al procesamiento del Lenguaje Natural
